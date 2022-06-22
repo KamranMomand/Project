@@ -119,12 +119,12 @@
 								<i class="fas fa-times"></i>
 							</div>
 							<div class="m-brand-logo text-center">
-								<a href="index.html#"><img src="/img/home-4/logo/logo1.png" alt=""></a>
+								<a href="index.php"><img src="/img/home-4/logo/logo1.png" alt=""></a>
 							</div>
 							<nav class="rx-mobile-main-navigation  clearfix ul-li">
 								<ul id="m-main-nav" class="navbar-nav text-capitalize clearfix">
 									<li class="dropdown">
-										<a href="#">Home</a>
+										<a href="index.php">Home</a>
 										<ul class="dropdown-menu clearfix">
 											<li><a href="#">DropDown 1</a></li>
 											<li><a href="#">DropDown 2</a></li>
@@ -132,7 +132,7 @@
 										</ul>
 									</li>
 									<li class="dropdown">
-										<a href="#">Features</a>
+										<a href="features.php">Features</a>
 										<ul class="dropdown-menu clearfix">
 											<li><a href="#">DropDown 1</a></li>
 											<li><a href="#">DropDown 2</a></li>
@@ -140,7 +140,7 @@
 										</ul>
 									</li>
 									<li><a href="#">Pages</a></li>
-									<li><a href="#">Pricing </a></li>
+									<li><a href="pricing.php">Pricing </a></li>
 									<li><a href="#">Support</a></li>
 									<li><a href="#">Login</a> </li>
 								</ul>

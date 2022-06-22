@@ -19,6 +19,7 @@ include "helper.php";
         require ('login-process.php');
     }
 ?>
+<br>
 <br><br><br><br><br><br><br><br>
 <!-- registration area -->
 <section id="login-form">
