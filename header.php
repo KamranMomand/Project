@@ -35,8 +35,9 @@
 	<header id="header_id" class="main_header header_style_four">
 		<div class="header_top_content clearfix">
 			<div class="container">
-				<div class="header_top_text float-left">
-					<span>Do you want to consult us? <a href="#">Find out more</a></span>
+				<div class="header_top_text float-left topnav">
+				<input type="text"  placeholder="Search..">
+				<i class="fa-solid fas-magnifying-glass-minus"></i>
 				</div>
 				<div class="header_top_contact float-right">
 					<a href="#"><i class="fas fa-phone"></i> +987 975 865 86 8</a>
@@ -54,27 +55,29 @@
 					<nav class="rx_main_navigation ul-li">
 						<ul>
 							<li class="dropdown">
-								<a href="index.html#">Home</a>
+								<a href="index.php">Home</a>
 								<ul class="dropdown-menu clearfix">
 									<li><a href="index.html">Home Page 1</a></li>
 									<li><a href="index-2.html">Home Page 2</a></li>
 									<li><a href="index-3.html">Home Page 3</a></li>
 								</ul>
 							</li>
-							<li><a href="about.html">About</a></li>
+							
 							<li class="dropdown">
-								<a href="index.html#">Service</a>
+								<a href="services.php">Legal Services</a>
 								<ul class="dropdown-menu clearfix">
 									<li><a href="service.html">Service Page 1</a></li>
 									<li><a href="practice.html">service Page 2</a></li>
 									<li><a href="practice-single.html">service Details</a></li>
 								</ul>
 							</li>
-							<li><a href="case.html">Case Study</a></li>
+							<li><a href="case.php">Case Study</a></li>
 							
-							<li><a href="blog.html">news</a></li>
-							<li><a href="contact.html">contact</a></li>
-                            <li><a href="login.php">Login</a></li>
+							<li><a href="blog.php">news</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="contact.php">contact</a></li>
+                            <li><a href="login.php">Login as a Lawyer</a></li>
+							
 						</ul>
 					</nav>
 					<!--
@@ -142,7 +145,7 @@
 									<li><a href="#">Pages</a></li>
 									<li><a href="pricing.php">Pricing </a></li>
 									<li><a href="#">Support</a></li>
-									<li><a href="#">Login</a> </li>
+									<li><a href="login.php">Login</a> </li>
 								</ul>
 							</nav>
 						</div>

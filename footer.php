@@ -18,7 +18,7 @@
 								Trade, Construction &amp; Engineering., Foreign Investment and Business Set-Up.
 							</div>
 							<div class="footer_app_btn">
-								<a href="#!">Get An Appointment</a>
+								<a href="register.php">Get An Appointment</a>
 							</div>
 						</div>
 					</div>
@@ -122,7 +122,7 @@
 					</div>
 					<div class="col-lg-4 col-md-12">
 						<div class="footer_logo text-center">
-							<a href="index.html"><img src="/img/home-4/logo/flogo-1.png" alt=""></a>
+							<a href="index.php"><img src="/img/home-4/logo/flogo-1.png" alt=""></a>
 						</div>
 					</div>
 					<div class="col-lg-4 col-md-12">
