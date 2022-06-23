@@ -153,6 +153,9 @@
 	<script src="js/tilt.jquery.min.js"></script>
 	<script src="js/odometer.js"></script>
 	<script src="js/home-4.js"></script>
+	<script src="js/script.js"></script>
+	<script src="js/gmap3.min.js"></script>
+	<script src="http://maps.google.com/maps/api/js?key=AIzaSyC61_QVqt9LAhwFdlQmsNwi5aUJy9B2SyA"></script>
 </main>
 </body>
 

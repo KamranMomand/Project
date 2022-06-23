@@ -12,13 +12,12 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/fontawesome-all.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
 	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" href="css/home-icon-4.css">
+	<link rel="stylesheet" href="css/flaticon.css">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/video.min.css">
-	<link rel="stylesheet" href="css/odometer-theme-default.css">
 	<link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="style.css">
 </head>
@@ -35,10 +34,12 @@
 	<header id="header_id" class="main_header header_style_four">
 		<div class="header_top_content clearfix">
 			<div class="container">
+				<!--
 				<div class="header_top_text float-left topnav">
 				<input type="text"  placeholder="Search..">
 				<i class="fa-solid fas-magnifying-glass-minus"></i>
 				</div>
+-->
 				<div class="header_top_contact float-right">
 					<a href="#"><i class="fas fa-phone"></i> +987 975 865 86 8</a>
 					<a href="#"><i class="fas fa-map-marker-alt"></i> 503 mila St, New York, NY 10002</a>
@@ -71,7 +72,7 @@
 									<li><a href="practice-single.html">service Details</a></li>
 								</ul>
 							</li>
-							<li><a href="case.php">Case Study</a></li>
+							<li><a href="casestudy.php">Case Study</a></li>
 							
 							<li><a href="blog.php">news</a></li>
 							<li><a href="about.php">About</a></li>
